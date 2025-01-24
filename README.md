@@ -23,4 +23,4 @@ Delete tasks by selecting the task number.
 Update tasks by modifying existing entries.
 Installation
 Prerequisites
-Ensure you have Python 3.x installed. You can check your version with:
+Ensure you have Python 3.x installed.
