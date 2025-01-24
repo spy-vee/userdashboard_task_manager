@@ -24,3 +24,5 @@ Update tasks by modifying existing entries.
 Installation
 Prerequisites
 Ensure you have Python 3.x installed.
+
+Clone with this link https://github.com/spy-vee/userdashboard_task_manager.git
